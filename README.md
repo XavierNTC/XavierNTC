@@ -6,7 +6,6 @@
 </p>
 
 
-<h2 align="left">Olá, me chamo Gabriel Xavier Viana, atualmente tenho 19 anos e estou cursando desenvolvimento de software multiplataforma pela Fatec.</h2>
 
 ###
 
