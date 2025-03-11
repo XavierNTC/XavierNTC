@@ -25,6 +25,8 @@
   <img width="14" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20" alt="visualstudio logo"  />
   <img width="14" />
+  <img src="https://img.shields.io/badge/Power Bi-5C2D91?logo=powerbi&logoColor=white&style=for-the-badge" height="20" alt="visualstudio logo"  />
+  <img width="14" />
 </div>
 
 ###
