@@ -36,15 +36,15 @@
 <h2 align="left">Mídias Sociais</h2>
 
 <div align="left">
-  <a href="https://wa.me/11959456397" target="_blank" text-decoration"none">
+  <a href="https://wa.me/11959456397" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
-  <a href="https://www.instagram.com/g.xavier__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/g.xavier__/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-<a href="https://www.linkedin.com/in/gabriel-viana-301a59226/" target="_blank" text-decoration"none">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"  />
- </a>
+  <a href="https://www.linkedin.com/in/gabriel-viana-301a59226/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
+  </a>
 </div>
 
 <h2 align="left">Estatísticas</h2>
