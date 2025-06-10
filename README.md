@@ -2,23 +2,7 @@
 
 <p align="left">Criando soluções inovadoras com tecnologia e criatividade.</p>
 
-<h2 align="left">Linguagens</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-</div>
-
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Habilidades</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,figma,postman,html,css,javascript,vscode,java,git,php,py,cs,visualstudio" />
