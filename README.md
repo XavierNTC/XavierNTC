@@ -21,12 +21,7 @@
 <h2 align="left">Tecnologias</h2>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20" alt="visualstudio logo"  />
-  <img width="14" />
-  <img src="https://img.shields.io/badge/Power Bi-5C2D91?logo=powerbi&logoColor=yellow&style=for-the-badge" height="20" alt="visualstudio logo"  />
-  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=mysql,figma,postman,html,css,javascript,vscode,java,git,php,py,cs,visualstudio" />
 </div>
 
 ###
